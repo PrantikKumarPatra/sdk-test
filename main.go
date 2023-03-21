@@ -1,4 +1,4 @@
-package sdk_test
+package sdktest
 
 import "log"
 
